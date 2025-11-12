@@ -1,1 +1,2 @@
-from .actuarial_funciones import *
+from .clr import clr
+from .tablas import *
